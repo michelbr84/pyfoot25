@@ -1,0 +1,6 @@
+# Requisitos do PyFoot25
+# Para rodar o jogo em modo texto, apenas Python é necessário.
+# Para interface gráfica, instale também pygame.
+
+# Dependências principais
+pygame>=2.0.0  # Opcional, apenas se quiser interface gráfica
